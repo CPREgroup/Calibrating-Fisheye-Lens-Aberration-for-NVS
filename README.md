@@ -1,4 +1,4 @@
-# Calibrating-Fisheye-Lens-Aberration-for-Novel-View-Synthesis
+# Self-Calibrating-Fisheye-Lens-Aberration-for-Novel-View-Synthesis
 The official implementation of paper "Self-calibrating Fisheye Lens Aberration for Novel View Synthesis"
 
 We are sorting out the code and datasets and will upload them later.
