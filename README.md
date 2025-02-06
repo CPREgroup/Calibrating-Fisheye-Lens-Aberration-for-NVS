@@ -3,7 +3,7 @@ The official implementation of paper "Self-calibrating Fisheye Lens Aberration f
 
 We are sorting out the code and datasets and will upload them later.
 
-## Dataset.
+## Dataset
 
 We will organize our AbeRec dataset and publish it at this link. https://drive.google.com/drive/folders/1jGRTtJlrlBQo_2xxFfpuG-d60WFIAXDd?usp=drive_link
 
