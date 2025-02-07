@@ -17,4 +17,6 @@ We propose an end-to-end framework that addresses fisheye lens aberrations in no
 
 We will organize our AbeRec dataset and publish it at this link. https://drive.google.com/drive/folders/1jGRTtJlrlBQo_2xxFfpuG-d60WFIAXDd?usp=drive_link
 
+(The upload is not yet complete. It includes synthetic datasets, real datasets, Zemax lens files, and the methods for dataset creation.)
+
 The FisheyeNeRF provided by SC-NeRF is available at the following link. https://drive.google.com/file/d/1VhnpMUIKEak4TBpKY4H8vMJJe--FM2k5/view
