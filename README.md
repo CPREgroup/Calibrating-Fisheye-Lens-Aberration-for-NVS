@@ -8,7 +8,8 @@ We are sorting out the code and datasets and will upload them later.
 
 
 <div style="text-align: center;">
-  <img src="./readme/intro.png" width="90%" /></div>
+  <img src="./readme/intro.png" width="90%" />
+</div>
 
 We propose an end-to-end framework that addresses fisheye lens aberrations in novel view synthesis by combining a lens aberration model with a curriculum learning strategy. This approach ensures stable optimization, enhances reconstruction quality under multiple coexisting aberrations, and demonstrates robust generalization to scenes captured with non-fisheye lenses.
 
