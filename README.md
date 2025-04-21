@@ -4,6 +4,10 @@ The official implementation of paper "Self-calibrating Fisheye Lens Aberration f
 
 We are sorting out the code and datasets and will upload them later.
 
+🎉 Our paper has been accepted by CGF!
+
+I was busy completing my master's thesis recently — code cleanup and documentation will begin soon.
+
 ## Introduction
 
 
